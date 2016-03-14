@@ -1,9 +1,4 @@
 /*
- * Color_Sensor.cpp
- *
- * Created: 23-06-2014 14:45:11
- *  Author: Yash Joshi
- 
 This experiment demonstrates the use of Color Sensor.
 
 Concepts covered: External Interrupts
